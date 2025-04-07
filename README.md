@@ -10,7 +10,7 @@ This is the backend for **SocialMediaApp2**, a social media application providin
 - JSON Web Tokens (JWT)
 - dotenv
 
-## Project Structure
+
 
 ## Installation
 Follow these steps to set up the backend locally:
