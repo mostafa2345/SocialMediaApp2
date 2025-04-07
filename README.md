@@ -20,5 +20,5 @@ Follow these steps to set up the backend locally:
    git clone https://github.com/mostafa2345/SocialMediaApp2.git
    cd SocialMediaApp2/backend
 2. Install dependencies:
-    
+     ```sh
    npm install
