@@ -25,3 +25,8 @@ Follow these steps to set up the backend locally:
 
      ```sh
    npm install
+3. Create a .env file and add necessary environment variables (e.g., database connection string).
+
+4. Start the server::
+     ```sh
+   npm start  
