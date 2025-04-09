@@ -1,8 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon server.js",
@@ -19,5 +18,7 @@
     "mongoose": "^8.13.2",
     "nodemon": "^3.1.9",
     "socket.io": "^4.8.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
